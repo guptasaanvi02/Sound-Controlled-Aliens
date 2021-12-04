@@ -1,0 +1,42 @@
+body {
+font-family: 'Bubblegum Sans', cursive;
+background:#ff0070  ;
+
+}
+.header_div 
+{
+background:whitesmoke;
+color: violet;
+margin-top: 0px;
+top: 0;
+}
+
+.header_div p {
+font-family: 'Quicksand', sans-serif;
+color: violet;
+letter-spacing:2px;
+font-size:12px;
+font-weight: bolder;
+
+}
+
+.main_div button{
+font-family: 'Quicksand', sans-serif;
+margin-top: 20px;
+width: 130px;
+font-weight: bold;
+letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+position:fixed;
+color:grey;
+bottom: 0;
+width:100%;
+font-size: 18px;
+background: whitesmoke;
+line-height: 3;
+text-align: center;
+text-shadow:5px 5px 5px grey
+}
